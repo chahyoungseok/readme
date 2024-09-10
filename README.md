@@ -1,32 +1,24 @@
 # <img width="30" alt="docker logo" src="https://github.com/user-attachments/assets/72091dc1-2915-4b35-bec9-efe983e4b083"> RestDocker
 
-> 프로젝트 소개: 도커 이미지, 컨테이너, 네트워크 등을 학습할 수 있도록 서비스
+### RestDocker 란
+RestApi를 통해 Docker 의 기본 개념(도커 이미지, 컨테이너, 네트워크 등)을 학습할 수 있도록 서비스이다.
 
 <br>
 
-## 📌 목차
-1. [프로젝트 소개](#프로젝트-소개)
-2. [기술 스택](#기술-스택)
-3. [구현 기능](#구현-기능)
-4. [아키텍처](#아키텍처)
-5. [UI](#UI)
-
-<br>
 
 ## 💁‍♂ 프로젝트 소개
 
-프로젝트에 대한 상세 설명을 여기에 적습니다. 예를 들어:
-- 프로젝트의 배경과 동기
-- 주요 기능과 사용 사례
-- 간략한 아키텍처 다이어그램
+### **서비스 Identiity** 
+Docker 를 자유롭게 공부할 수 있는 환경을 제공하는 서비스. Docker 서비스를 시스템 단이 아닌 RestApi 와의 통신으로 구현합니다.
 
-![Architecture Diagram](path/to/architecture-diagram.png)
+### **프로젝트 우선순위** 
 
-<br>
-
-## 🛠 기술 스택
-
-<img width="834" alt="스크린샷 2024-09-10 오후 4 56 05" src="https://github.com/user-attachments/assets/b7f971d1-9fc8-40b9-8e37-ad00e2f90043">
+> 프로젝트 우선순위는 기술적 Trade-Off 인 상황에서 근거있는 선택을 할수있게 해줍니다. <br>
+> 1. 확장성
+> 2. 가독성
+> 3. 성능
+> 4. 보안성 <br>
+> * Docker 에 대해 공부를 하면서 구현하는 프로젝트입니다. 따라서 언제 어떻게 요구사항이 변경될지 모르기에 확장성이 가장 중요시되는 가치입니다.
 
 <br>
 
@@ -57,8 +49,14 @@
 
 <br>
 
+## 🛠 기술 스택
+
+<img width="834" alt="기술 스택" src="https://github.com/user-attachments/assets/b7f971d1-9fc8-40b9-8e37-ad00e2f90043">
+
+<br>
+
 ## ⚙️ 아키텍처
-![아키텍처](https://github.com/user-attachments/assets/b783a49f-fc7c-4e61-a3f9-e4ad003f8acd)
+<img width="500" alt="아키텍처" src="https://github.com/user-attachments/assets/b783a49f-fc7c-4e61-a3f9-e4ad003f8acd">
 
 
 <br>
