@@ -26,11 +26,7 @@
 
 ## 🛠 기술 스택
 
-- **Framework:** Spring Boot
-- **Database:** AWS RDS Maria DB
-- **Authentication:** JWT, OAuth2.0
-- **Infra:** Docker, AWS EC2, Github Action
-- **Configuration Management** Github, DockerHub
+<img width="834" alt="스크린샷 2024-09-10 오후 4 56 05" src="https://github.com/user-attachments/assets/b7f971d1-9fc8-40b9-8e37-ad00e2f90043">
 
 <br>
 
