@@ -59,7 +59,7 @@ Docker 를 자유롭게 공부할 수 있는 환경을 제공하는 서비스. D
 <img width="500" alt="아키텍처" src="https://github.com/user-attachments/assets/b783a49f-fc7c-4e61-a3f9-e4ad003f8acd">
 
 
-<br>
+<br><br>
 
 ## 🎨 UI
 
