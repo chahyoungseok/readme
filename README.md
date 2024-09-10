@@ -53,7 +53,7 @@ Docker 를 자유롭게 공부할 수 있는 환경을 제공하는 서비스. D
 
 <img width="834" alt="기술 스택" src="https://github.com/user-attachments/assets/b7f971d1-9fc8-40b9-8e37-ad00e2f90043">
 
-<br>
+<br><br>
 
 ## ⚙️ 아키텍처
 <img width="500" alt="아키텍처" src="https://github.com/user-attachments/assets/b783a49f-fc7c-4e61-a3f9-e4ad003f8acd">
