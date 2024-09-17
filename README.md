@@ -74,7 +74,7 @@ Docker 를 자유롭게 공부할 수 있는 환경을 제공하는 서비스. D
 
 |   Docker Image Ls   |   Docker Image Inspect   |
 | ------------- | ------------- |
-| | <img width="380" alt="자세한 이미지 조회" src="https://github.com/user-attachments/assets/98bffa72-b3a4-415b-9f1c-79b874554301"> |
+| <img width="550" alt="이미지 조회" src="https://github.com/user-attachments/assets/7ce31986-5ef9-4997-bb8c-ff4bf02f05cc"> | <img width="380" alt="자세한 이미지 조회" src="https://github.com/user-attachments/assets/98bffa72-b3a4-415b-9f1c-79b874554301"> |
 
 |   Docker Image Pull   |   Docker Image Rm   |
 | ------------- | ------------- |
@@ -89,11 +89,14 @@ Docker 를 자유롭게 공부할 수 있는 환경을 제공하는 서비스. D
 466
 
 
+
+
+
 ### Docker Network
 
 |   Docker Network Ls   |   Docker Network Inspect   |
 | ------------- | ------------- |
-| <img width="380" alt="네트워크 조회" src="https://github.com/user-attachments/assets/71124797-c117-4684-bbe3-39e623815869"> |  |
+| <img width="380" alt="네트워크 조회" src="https://github.com/user-attachments/assets/71124797-c117-4684-bbe3-39e623815869"> | <img width="465" alt="네트워크 자세한 조회" src="https://github.com/user-attachments/assets/bb4db8a1-9414-4b56-9a94-1da05c9c0e18"> |
 
 |   Docker Network Create   |   Docker Network Rm   |
 | ------------- | ------------- |
