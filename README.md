@@ -80,18 +80,6 @@ Docker 를 자유롭게 공부할 수 있는 환경을 제공하는 서비스. D
 | ------------- | ------------- |
 | <img width="380" alt="이미지 가져오기" src="https://github.com/user-attachments/assets/2d0a5c89-2e9f-406e-8802-21a1a4d946f4"> | <img width="380" alt="이미지 삭제" src="https://github.com/user-attachments/assets/264b3659-df28-462a-9e88-e2f19d2b551d"> |
 
-630
-
-211
-385
-
-635
-466
-
-
-
-
-
 ### Docker Network
 
 |   Docker Network Ls   |   Docker Network Inspect   |
@@ -106,7 +94,7 @@ Docker 를 자유롭게 공부할 수 있는 환경을 제공하는 서비스. D
 
 |   Docker Container Ls   |   Docker Container Inspect   |
 | ------------- | ------------- |
-|  | <img width="380" alt="자세한 컨테이너 조회" src="https://github.com/user-attachments/assets/f680cc28-586c-4557-9d4e-ad83ec1b1503"> |
+| <img width="470" alt="컨테이너 전체 조회" src="https://github.com/user-attachments/assets/eb1c66ba-5cc8-432c-b670-bd7238f858f0"> | <img width="380" alt="자세한 컨테이너 조회" src="https://github.com/user-attachments/assets/f680cc28-586c-4557-9d4e-ad83ec1b1503"> |
 
 |   Docker Container Create   |   Docker Container Rm   |
 | ------------- | ------------- |
